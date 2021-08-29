@@ -12,9 +12,8 @@
 ### Contact me:
 
 [<img align="left" alt="Ayman | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<a href="mailto:aymanrayan.kissami@gmail.com"><img align="left" alt="Ayman | mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /> </a>]
+[<img align="left" alt="Ayman | mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][mail]
 
-<br />
 
 ### Languages and Tools:
 
@@ -37,16 +36,8 @@
 
 
 
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
+
 [instagram]: https://www.instagram.com/aymanrayankissamy_/?hl=en
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
 [visualcodelink]: https://code.visualstudio.com/download
 [html]: https://www.w3schools.com/html/
 [css]: https://www.w3schools.com/css/
@@ -54,4 +45,4 @@
 [mysql]: https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql
 [git]: https://git-scm.com/downloads
 [github]: https://github.com/
-[mail]: mailto: aymanrayan.kissami@gmail.com
+[mail]: https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=DmwnWrRnZnKMKBcBbtGxVvXMZcNMXbcqtdWfPDLdQnpFQjcCDkljnCJxTCstzWRCCvSTfQmPSxcg
