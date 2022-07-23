@@ -4,9 +4,9 @@
 ## I'm a Student ,tech nerd and a  Developer!!
 
 - 🔭 I'm about to  launch my Portfolio Website !
-- 🌱 I’m currently learning CCNA routing and switching .
+- 🌱 I’m currently preparing for my CCNA routing and switching .
 - 👯 I’m looking to work with other developers in order to  exchange experience.
-- 🥅 2021 Goals: Contribute more to Open Source projects.
+- 🥅 2022 Goals: Contribute more to Open Source projects.
 - ⚡ I love playing video games  / creating them .
 
 ### Contact me:
