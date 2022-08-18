@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ayman Rayan Kissami</h1>
 <h3 align="center">Tech Nerd , Pentester , Software developer</h3>
 
-- 🔭 I’m about to launch my portfolio Website [c](c)
+- 🔭 I’m about to launch my portfolio Website 
 
 - 🌱 I’m currently preparing for my CCNA routing and switching **.**
 
-- 👯 I’m looking forward to work with other developers in order to exchange experience [c](c)
+- 👯 I’m looking forward to work with other developers in order to exchange experience 
 
 - 📫 Contact me **aymanrayan.kissami@gmail.com**
 
