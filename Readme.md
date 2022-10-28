@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ayman Rayan Kissami</h1>
-<h3 align="center">Tech Nerd , Pentester , Software developer</h3>
+<h3 align="center">Tech Nerd , Pentester , Cybersecurity enthusiast</h3>
 
 - 🔭 I launched my portfolio Website , <a href="http://www.aymanrayan.tech/"> Here . </a>
 
 - 🌱 I’m currently preparing for my CCNA routing and switching **.**
 
-- 👯 I’m looking forward to work with other developers in order to exchange experience 
+- 👯 I’m looking forward to work with other RedTeamers and Offsec Members in order to exchange experience 
 
 - 📫 Contact me **aymanrayan.kissami@gmail.com**
 
