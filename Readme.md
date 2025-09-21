@@ -7,7 +7,6 @@
 
 
 
-- 📫 Contact me **aymanrayan.kissami@gmail.com**
 
 
 <p align="left">
